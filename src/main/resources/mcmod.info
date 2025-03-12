@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ladsmod",
+  "name": "2P Utils Legacy",
+  "description": "Designed by Lad. Superseded by 2P Utils Fabric on 1.21.3",
+  "version": "${version}",
+  "mcversion": "1.8.8",
+  "url": "https://github.com/ladmoe/2P-Utils-Legacy",
+  "updateUrl": "",
+  "authorList": ["Lad"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
